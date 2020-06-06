@@ -1,4 +1,5 @@
-# Hygge
+# Hygge - Be Present
+#### Give your mind some rest, it will gift you with answers you are searching for. 
 
 ### Description
 In this time, where there no definite boundaries between working hours and resting hours. It is to take some time out for mindfulness.
@@ -22,5 +23,7 @@ ____________________________
 ### setting_activity 
 
 
-## So what are you waiting for
-### Give your mind some rest, it will gift you with answers you were searching for. 
+## Watch [Demo_video](demo_video.mp4)
+
+
+### So what are you waiting for, Try it now!
